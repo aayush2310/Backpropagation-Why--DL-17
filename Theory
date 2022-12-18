@@ -1,0 +1,7 @@
+1)Loss function is a function of all the trainable parameters.
+  We need to tune those 9 parameters to minimize Loss
+  
+2)Gradient:-Fancy word for derivative.(When our function depends on more than one parameters)
+            We are calculating 9 different slopes.
+            
+            Logic of backpropagation:-same as gradient descent we did in ML.
